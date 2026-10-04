@@ -10,7 +10,9 @@ Note: Created these POCs before Wiz released the technical information. This may
 These are also not full exploits, rather they are POCs to understand the exploit flow and vulnerability prerequisites
 
 ## More Info
+
 https://blog.shakeylabs.com/ingressnightmare-patch-analysis/
 
 ## Shodan Scan
+
 https://www.shodan.io/search?query=ssl%3A%22Issuer%3A+O%3Dnil1%22+port%3A8443+country%3A%22US%22&page=2
